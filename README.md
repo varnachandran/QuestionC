@@ -1,4 +1,3 @@
-# QuestionC
 Assigning numbers to cities
 
 For question c on assigning unique numbers to cities, the aim is to find the algorithm used to generate the sample output from the sample input given.
